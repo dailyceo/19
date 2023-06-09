@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd21BAE1a6202e6028280c68d00aEE1AB271aB459",
+  "SCAN_LINK": "https://etherscan.io/0xd21BAE1a6202e6028280c68d00aEE1AB271aB459",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": " ONLY HANDS",
+  "SYMBOL": "OH",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 111000000000000000,
+  "DISPLAY_COST": 0.11100000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/only-hands-1",
+  "SHOW_BACKGROUND": true
+}
